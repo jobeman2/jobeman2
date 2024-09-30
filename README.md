@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Php ,Word press , React**
 
-- 📫 How to reach me **nebilusman7@gmail.com**
+- 📫 How to reach me **+251946651200**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
