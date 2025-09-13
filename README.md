@@ -4,7 +4,7 @@
 <img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jobeman2&label=Profile%20views&color=0e75b6&style=flat" alt="jobeman2" /> </p>
 
-- 🔭 I’m currently working on **Ling Chat**
+- 🔭 I’m currently working on **Bus Project**
 
 - 🌱 I’m currently learning **React , Android**
 
