@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Bus Project**
 
-- 🌱 I’m currently learning **React , Android**
+- 🌱 I’m currently learning ** Android**
 
 - 👯 I’m looking to collaborate on **Any Web app projects**
 
-- 💬 Ask me about **Php ,Word press , React**
+- 💬 Ask me about **Php ,Word press , React **
 
 - 📫 How to reach me **+251946651200**
 
