@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nebil Usman</h1>
 <h3 align="center">👋 Hi, I'm Nebil Usman from Ethiopia 🇪🇹 🎨 Senior Frontend Developer & UI/UX Designer passionate about crafting beautiful, scalable, and user-centered web experiences. I specialize in building modern, high-performance interfaces and truly enjoy designing intuitive user journeys. I work extensively with technologies like React, Next.js, and modern UI frameworks, and I’m always exploring new tools, design systems, and frontend architectures to stay at the cutting edge of the industry. 💡 I love turning complex ideas into clean, elegant, and engaging digital products — where design meets performance.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobeman2&label=Profile%20views&color=0e75b6&style=flat" alt="jobeman2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobeman2" alt="jobeman2" /></a> </p>
 
